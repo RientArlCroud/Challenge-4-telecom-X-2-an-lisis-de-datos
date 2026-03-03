@@ -140,5 +140,5 @@ Se identificó que:
 
 ## 👤 Autor
 
-Proyecto desarrollado por Juan Esteban Rodríguez Aranda
+Proyecto desarrollado por Juan Esteban Rodríguez Aranda  
 Ingeniero Ambiental en formación | En transición hacia Ciencia de Datos
